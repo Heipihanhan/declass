@@ -4,10 +4,10 @@
 \alias{declass_fields}
 \title{Display document metadata fields.}
 \usage{
-declass_fields(return_type = "list")
+declass_fields(return_type = "string")
 }
 \arguments{
-\item{return_type}{The format of content displayed, in list or raw.}
+\item{return_type}{The format of content displayed, in list or character.}
 }
 \value{
 The metadata fields for all collections of data.
@@ -17,5 +17,5 @@ This function displays the document metadata fields for all collections.
 }
 \examples{
 declass_fields("list")
-declass_fields("raw")
+declass_fields("string")
 }

@@ -4,7 +4,7 @@
 \alias{declass_collection}
 \title{List collections.}
 \usage{
-declass_collection(return_type = "list")
+declass_collection(return_type = "string")
 }
 \arguments{
 \item{return_type}{The format of content displayed, in list or raw.}
@@ -17,5 +17,5 @@ This functions lists all collections that're avaialble in the Declassification E
 }
 \examples{
 declass_collection("list")
-declass_collection("raw")
+declass_collection("string")
 }

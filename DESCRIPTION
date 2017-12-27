@@ -12,12 +12,18 @@ Imports:
     httr,
     jsonlite,
     rvest,
-    utils
+    utils,
+    dplyr,
+    devtools,
+    ggmap,
+    ggplot2,
+    roxygen2
 Suggests: 
     tidyverse,
     stringr,
     dbplyr,
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr

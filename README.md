@@ -1,18 +1,17 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # declass - R Package
 
-The goal of `declass` R package is to allow people explore the vast archival records from Columbia University History Lab - Declassification Engine. 
+The goal of `declass` R package is to allow people explore the vast
+archival records from Columbia University History Lab - Declassification
+Engine.
 
 ![Columbia History Lab Archives](../history_lab_archives.png)
 
 ## Example
 
-```{r eval=FALSE}
+``` r
 library(declass)
 
 # See what collections are there
