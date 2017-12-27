@@ -7,7 +7,7 @@ The goal of `declass` R package is to allow people explore the vast
 archival records from Columbia University History Lab - Declassification
 Engine.
 
-![Columbia History Lab Archives](../history_lab_archives.png)
+![Columbia History Lab Archives](./history_lab_archives.png)
 
 ## Example
 
