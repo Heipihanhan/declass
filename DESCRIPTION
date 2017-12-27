@@ -2,7 +2,7 @@ Package: declass
 Type: Package
 Title: Query Data From Declassification Engine API
 Version: 0.1.0
-Author: person("Jianghanhan", "Li", email = "jl4592@columbia.edu", role = c("aut", "cre"))
+Authors@R: person("Jianghanhan", "Li", role = c("aut", "cre"), email = "jl4592@columbia.edu")
 Maintainer: The package maintainer <jl4592@columbia.edu>
 Description: The declass package allows user to query data from the Declassification Engine API hosted by Columbia University History Lab.
 License: MIT + file LICENSE
